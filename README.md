@@ -139,6 +139,4 @@ When `output html` is selected, rendered art is written to `out.html` in the wor
 
 ---
 
-## License
 
-Educational project — see course guidelines for usage and attribution requirements.
